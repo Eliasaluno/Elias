@@ -3,4 +3,9 @@
 -Estou me desenvolvendo na linguagem java script e
 -Etilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
 
-![a black and white drawing of a man sitting on a rock](https://tenor.com/pt-BR/view/guts-gif-27663479)
+###Voce pode me contatar por:
+
+-eliasoliveriamartins6@gmail.com
+
+![image](https://github.com/user-attachments/assets/6c1bbe08-2f95-48c6-bf94-80554b243b9d)
+
