@@ -3,7 +3,7 @@
 -Estou me desenvolvendo na linguagem java script e
 -Etilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
 
-###Voce pode me contatar por:
+### Você pode me contatar por:
 
 -eliasoliveriamartins6@gmail.com
 
